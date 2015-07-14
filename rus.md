@@ -86,31 +86,9 @@
 
 На момент написания статьи поддержка правила `@document` была довольно слабой:
 
-| Chrome | Safari | Firefox | Opera | IE | Android | iOS
-| ———— | ———— | ———— | ———— | ———— | ————|———— |
-| No | No | -moz | No | No | No | No |
-
-
-<table>
-	<tr>
-		<th>Chrome</th>
-		<th>Safari</th>
-		<th>Firefox</th>
-		<th>Opera</th>
-		<th>IE</th>
-		<th>Android</th>
-		<th>iOS</th>
-	</tr>
-	<tr>
-		<td>No</td>
-		<td>No</td>
-		<td>-moz</td>
-		<td>No</td>
-		<td>No</td>
-		<td>No</td>
-		<td>No</td>
-	</tr>
-</table>
+| Chrome | Safari | Firefox | Opera | IE  | Android | iOS |
+|:------:|:------:|:-------:|:-----:|:---:|:-------:|:---:|
+| Нет    | Нет    | `-moz`  | Нет   | Нет | Нет     | Нет |
 
 
 ### `@font-face`
@@ -196,30 +174,8 @@
 @supports:
 
 | Chrome | Safari | Firefox | Opera | IE   | Android | iOS |
-|————|————|————|———|———|————|——|
-| 28+    | No     | 31+     | 12.1+ | Edge | 4.4+    | No  |
-
-
-<table>
-  <tr>
-    <th>Chrome</th>
-    <th>Safari</th>
-    <th>Firefox</th>
-    <th>Opera</th>
-    <th>IE</th>
-    <th>Android</th>
-    <th>iOS</th>
-  </tr>
-  <tr>
-    <td>28+</td>
-    <td>No</td>
-    <td>31+</td>
-    <td>12.1+</td>
-    <td>Edge</td>
-    <td>4.4+</td>
-    <td>No</td>
-  </tr>
-</table>
+|:------:|:------:|:-------:|:-----:|:----:|:-------:|:---:|
+| 28+    | Нет    | 31+     | 12.1+ | Edge | 4.4+    | Нет |
 
 ## Подводя итог
 
