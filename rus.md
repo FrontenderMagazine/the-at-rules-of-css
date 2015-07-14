@@ -1,6 +1,5 @@
 #`@-правила` CSS
 
-Автор статьи: [Geoff Graham](https://css-tricks.com/author/geoffreygrahamgmail-com/) (Май 2015)
 
 `@-правило` — утверждение, которое содержит инструктивные указания CSS, либо
 диктует манеру поведения CSS. Каждое такое утверждение начинается со знака «@»,
@@ -185,8 +184,6 @@
 условия, позволяя создавать интерактивные сценарии с учетом действий
 пользователя.
 
-[Twitter][9] [Facebook][10] [Google+][11]
-
  [1]: http://www.ascii.cl/htmlcodes.htm
  [2]: http://en.wikipedia.org/wiki/UTF-8
  [3]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta#Attributes
@@ -195,6 +192,3 @@
  [6]: https://css-tricks.com/almanac/properties/a/animation/
  [7]: https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
  [8]: http://modernizr.com/
- [9]: https://twitter.com/intent/tweet?text=The%20At-Rules%20of%20CSS&url=https://css-tricks.com/the-at-rules-of-css/&via=real_css_tricks
- [10]: https://www.facebook.com/sharer/sharer.php?u=https://css-tricks.com/the-at-rules-of-css/
- [11]: https://plus.google.com/share?url=https://css-tricks.com/the-at-rules-of-css/
